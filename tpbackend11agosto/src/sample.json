@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "title":"producto 1",
+        "description":"descripcion del producto 1",
+        "price":100
+    },
+    {
+        "id":"2",
+        "title":"producto 2",
+        "description":"descripcion del producto 2",
+        "price":10
+    }
+]
+    
+    
